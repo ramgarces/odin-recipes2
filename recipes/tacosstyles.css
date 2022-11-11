@@ -9,6 +9,7 @@ h2 {
     color: white;
     font-size: 35px;
     font-weight: 200;
+    background-color: red;
 }
 
 .recipe-title {
@@ -17,6 +18,4 @@ h2 {
     font-size: 60px;
 }
 
-.description-title {
-    color:
-}
+
