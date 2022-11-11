@@ -3,6 +3,12 @@
 * {
     font-family: sans-serif;
 }
+
 h1 {
-    font-size
+    font-size: 75px;
+    text-align: center;
+}
+
+.link-container {
+    text-align: center;
 }
