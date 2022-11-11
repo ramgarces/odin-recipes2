@@ -9,6 +9,11 @@ h1 {
     text-align: center;
 }
 
+a {
+    text-decoration: none;
+    margin-right: 50px;
+}
+
 .link-container {
     text-align: center;
 }
