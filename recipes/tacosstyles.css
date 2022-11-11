@@ -4,3 +4,9 @@
     background-color: green;
     font-family:Arial, Helvetica, sans-serif;
 }
+
+.recipe-title {
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
