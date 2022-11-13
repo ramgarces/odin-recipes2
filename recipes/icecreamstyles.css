@@ -18,3 +18,8 @@ img {
     height: auto;
     width: 525px;
 }
+
+h2 {
+    font-size: 30px;
+    background-color: chocolate;
+}
