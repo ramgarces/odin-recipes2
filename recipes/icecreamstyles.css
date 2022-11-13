@@ -13,3 +13,8 @@ h1 {
 .image-container {
     text-align: center;
 }
+
+img {
+    height: auto;
+    width: 525px;
+}
